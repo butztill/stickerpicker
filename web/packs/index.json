@@ -1,11 +1,13 @@
 {
   "packs": [
     "spc90b7aebc160e89c6e2833efed9491bf_by_stckrRobot.json",
+    "OriginalMeryStickers.json",
     "FoxxoPack.json",
-    "BlassRos3.json",
-    "sp79512aa8297756b9a6689a83d9d3d314_by_stckrRobot.json",
+    "FrozenFate.json",
+    "CaptainFolf.json",
     "LokisStickers.json",
-    "foxflea.json"
+    "sp79512aa8297756b9a6689a83d9d3d314_by_stckrRobot.json",
+    "ByteAndAntares.json"
   ],
   "homeserver_url": "https://matrix.thefurry.site"
 }
